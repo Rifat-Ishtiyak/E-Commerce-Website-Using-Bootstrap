@@ -1,7 +1,8 @@
 .bg-pink{
     background-color: #fceae8;
     border-radius: 15px;
-    margin-top: 40px;
+    margin-top:50px;
+    margin-bottom:50px;
 }
 
 .carousel-item{
@@ -19,4 +20,36 @@
     border-radius: 10px;
     padding: 10px 25px;
     cursor: pointer;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: orchid;
+}
+
+.cat3{
+    background-color: blue;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+
+
+
+.ex-height{
+    height: 900px;
 }
