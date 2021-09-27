@@ -1,8 +1,8 @@
 .bg-pink{
     background-color: #fceae8;
-    border-radius: 15px;
+    border-radius: 10px;
     margin-top:50px;
-    margin-bottom:50px;
+    margin-bottom:100px;
 }
 
 .carousel-item{
@@ -48,7 +48,7 @@
 }
 
 .shoes{
-    margin: 50px auto;
+    margin: 100px auto;
 }
 
 .card{
@@ -64,6 +64,15 @@
     padding-bottom: 20px;
 }
 
-.ex-height{
-    height: 900px;
+.contact{
+    background-color: #fceae8;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.contact h6{
+    color: grey;
+}
+.contact input{
+    margin-bottom: 10px;
 }
